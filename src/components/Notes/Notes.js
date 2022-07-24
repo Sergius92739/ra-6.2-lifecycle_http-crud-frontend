@@ -7,7 +7,7 @@ export default class Notes extends React.Component {
   constructor() {
     super();
     this.state = { notes: [] };
-    this.url = 'http://localhost:7777';
+    this.url = 'https://fathomless-shore-15824.herokuapp.com';
     this.addNote = this.addNote.bind(this);
     this.deleteNote = this.deleteNote.bind(this);
     this.updateNotes = this.updateNotes.bind(this)
