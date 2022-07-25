@@ -1,5 +1,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/n3n099ysap5ymgrx/branch/master?svg=true)](https://ci.appveyor.com/project/Sergius92739/ra-6-2-lifecycle-http-crud-frontend/branch/master)
 
+### Deployment:  <a href="https://sergius92739.github.io/ra-6.2-lifecycle_http-crud-frontend/">Github Pages</a>
+
 CRUD
 ===
 
