@@ -2,6 +2,10 @@
 
 ### Deployment:  <a href="https://sergius92739.github.io/ra-6.2-lifecycle_http-crud-frontend/">Github Pages</a>
 
+### Server: <a href="https://ra-6-2-lifecycle-http-crud-backend.onrender.com">Render</a>
+
+### Backend <a href="https://github.com/Sergius92739/ra-6.2-lifecycle_http-crud-backend">Repository</a>
+
 CRUD
 ===
 
