@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ra-6.2-lifecycle_http-crud-frontend/static/css/main.b1a8f92d.css",
+    "main.js": "/ra-6.2-lifecycle_http-crud-frontend/static/js/main.3f6c7099.js",
+    "static/js/787.82a07989.chunk.js": "/ra-6.2-lifecycle_http-crud-frontend/static/js/787.82a07989.chunk.js",
+    "static/media/Inter.ttf": "/ra-6.2-lifecycle_http-crud-frontend/static/media/Inter.9cd7588f47651215d52f.ttf",
+    "index.html": "/ra-6.2-lifecycle_http-crud-frontend/index.html",
+    "main.b1a8f92d.css.map": "/ra-6.2-lifecycle_http-crud-frontend/static/css/main.b1a8f92d.css.map",
+    "main.3f6c7099.js.map": "/ra-6.2-lifecycle_http-crud-frontend/static/js/main.3f6c7099.js.map",
+    "787.82a07989.chunk.js.map": "/ra-6.2-lifecycle_http-crud-frontend/static/js/787.82a07989.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1a8f92d.css",
+    "static/js/main.3f6c7099.js"
+  ]
+}
